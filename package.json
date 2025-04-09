@@ -1,0 +1,15 @@
+{
+    "name": "framework_l5",
+    "version": "1.0.0",
+    "description": "Мини-фреймворк на Node.js без использования внешних библиотек",
+    "main": "src/server.js",
+    "scripts": {
+        "start": "node src/server.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "directories": {
+        "example": "example"
+    }
+}
